@@ -1,0 +1,1 @@
+Testando palavras reservadas do Python 3.11.9!
