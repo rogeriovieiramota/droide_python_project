@@ -1,0 +1,58 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+venv/
+ENV/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# PyTest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE / editor
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Env files
+.env*
+local_settings.py
+
+# Adicionar caches de ferramentas
+.mypy_cache/
+.pyre/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# pyenv / local Python version
+.python-version
+
+# Metadados de wheel
+pip-wheel-metadata/
+
+# Flask / Celery
+instance/
+celerybeat-schedule
+
+# Ajuste: manter apenas o padrão genérico para env files
+.env*
