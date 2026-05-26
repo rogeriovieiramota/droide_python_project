@@ -1,7 +1,7 @@
 # Curso: AS 35 PALAVRAS RESERVADAS DO PYTHON versão 3.11.9
 
 print("---------------------------------------------------------------------------------")
-print('EXEMPLO ->310. is - Compara se dois objetos são o MESMO objeto  ===\n')
+print('EXEMPLO ->31. is - Compara se dois objetos são o MESMO objeto  ===\n')
 print("---------------------------------------------------------------------------------")
 print("=================================================================================\n")
 
